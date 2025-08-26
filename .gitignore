@@ -1,0 +1,7 @@
+*.png
+*.pt
+Figs/*
+weights/*
+data/*
+
+
